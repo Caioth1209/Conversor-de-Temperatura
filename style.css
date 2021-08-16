@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to bottom, #d68718, #7f6317);
+    text-align: center;
+    padding: 2%;
+}
+
+.container > h1{
+    padding: 2%;
+    color: whitesmoke;
+    padding-bottom: 5%;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 40%;
+    border: 1px;
+    box-shadow: 2px 2px 50px rgb(160, 97, 45);
+    border-radius: 30px;
+    padding: 3%;
+}
+
+.input{
+    appearance: none;
+    width: 100%;
+    padding: 2%;
+    margin-bottom: 5%;
+    font-size: larger;
+    outline: none;
+    border-radius: 10%;
+}
+
