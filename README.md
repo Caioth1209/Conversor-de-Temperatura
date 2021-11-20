@@ -1,5 +1,5 @@
-# Temperature converter
+# Conversor de Temperatura
 
-Technologies:
+Tecnologias:
   
-- HTML, CSS and JAVASCRIPT
+- HTML, CSS e JAVASCRIPT
